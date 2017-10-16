@@ -30,7 +30,7 @@ Our rules for HTML:
 **Fixed HTML example**
 
 ```html
-<main class="article">
+<div class="article">
   <main>
     <h1 id="text-header" class="text_header">The header is here</h1>
     <p class="textCopy">Here are some extra words!</p>
